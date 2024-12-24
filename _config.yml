@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
-
-url: https://just-the-docs.github.io
-
+title: "HostOS Documentation"
+repository: cloudlab/hostos-docs/tree/docs-r1 
+remote_theme: just-the-docs/just-the-docs
+color_scheme: wider
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+    "Release bundle ":
+        - "https://github.ibm.com/cloudlab/srb/blob/master/architecture/hostos/OperatorNotes.md"
+
+footer_content: "Copyright &copy; IBM Corporation 2024."
