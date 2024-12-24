@@ -10,16 +10,6 @@ permalink: /
 Welcome to the documentation for the HostOS Team.
 {: .fs-6 .fw-300 }
 
-<details markdown="block">
-  <summary>
-    Table of Contents
-  </summary>
-____
-- TOC
-{:toc}
-____
-</details>
-
 ---
 
 [Contributing](./docs/contributing.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View on Github](https://github.ibm.com/cloudlab/hostos-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
