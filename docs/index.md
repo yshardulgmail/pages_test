@@ -50,11 +50,11 @@ ____
 
 ---
 
-# Prereqs
+### Prereqs
 
 * Be sure to have access to [cloudlab github org](https://github.ibm.com/cloudlab)
 
-# Updating existing doc
+### Updating existing doc
 
 1. Clone repo
 
@@ -88,7 +88,7 @@ ____
 
 5. Create PR
 
-# Adding new doc
+### Adding new doc
 
 1. Create branch
 
