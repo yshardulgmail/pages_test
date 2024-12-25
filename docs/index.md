@@ -6,8 +6,8 @@ has_toc: false
 permalink: /
 ---
 
-# HostOS Documenation 
-Welcome to the documentation for the HostOS Team.
+# HostOS Reports 
+Hostos reports will be available at this place.
 {: .fs-6 .fw-300 }
 
 <details markdown="block">
