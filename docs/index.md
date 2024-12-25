@@ -22,7 +22,7 @@ ____
 
 ---
 
-[View on Github](https://github.ibm.com/cloudlab/hostos-reports){: .btn .btn-blue .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View on Github](https://github.ibm.com/cloudlab/hostos-reports){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ## About
 
